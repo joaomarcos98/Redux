@@ -15,7 +15,7 @@ const Catalog = () => {
 
     return (
 
-        <main>meta
+        <main>
             <h1>
                 Catalog
             </h1>
