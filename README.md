@@ -1,4 +1,4 @@
-# React with Redux, Redux-Saga and TypesScript. 🚀
+# React com Redux, Redux-Saga e TypesScript. 🚀
 
  Uma aplicação simple para entender o funcionamento do Redux e a melhor maneira de utiliza-lo junto com o Redux-Saga e Typescript.
 
